@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Prazer, me chamo Lucas Araujo! 👋
+
+<div align="center" style="display: flex">
+  <a href="https://github.com/lucascta">
+  <img width="49%" height="150em" src="https://github-readme-stats.vercel.app/api?username=lucascta&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="49%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascta&layout=compact&langs_count=7&theme=radical"/>
+</div>
