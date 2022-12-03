@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **LucasCta/LucasCta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +17,6 @@ Here are some ideas to get you started:
 
 <div align="center" style="display: flex">
   <a href="https://github.com/lucascta">
-  <img width="49%" height="150em" src="https://github-readme-stats.vercel.app/api?username=lucascta&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="49%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascta&layout=compact&langs_count=7&theme=radical"/>
+  <img width="49%" height="150em" src="https://github-readme-stats.vercel.app/api?username=lucascta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="49%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascta&layout=compact&langs_count=7&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
